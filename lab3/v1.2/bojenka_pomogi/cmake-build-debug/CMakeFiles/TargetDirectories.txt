@@ -1,0 +1,4 @@
+/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug/CMakeFiles/lab_03.dir
+/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug/CMakeFiles/lab_03_autogen.dir

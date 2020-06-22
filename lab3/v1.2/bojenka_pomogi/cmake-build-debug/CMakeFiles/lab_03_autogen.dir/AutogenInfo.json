@@ -1,0 +1,366 @@
+{
+	"BUILD_DIR" : "/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug/lab_03_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jasur/Downloads/test/bojenka_pomogi",
+	"CMAKE_EXECUTABLE" : "/snap/clion/114/bin/cmake/linux/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/jasur/Downloads/test/bojenka_pomogi",
+	"HEADERS" : 
+	[
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/command/command.h",
+			"MU",
+			"LTLVFUOEFO/moc_command.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/command/iappcommand.h",
+			"MU",
+			"LTLVFUOEFO/moc_iappcommand.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/command/rotatecommand.h",
+			"MU",
+			"LTLVFUOEFO/moc_rotatecommand.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/command/scalecommand.h",
+			"MU",
+			"LTLVFUOEFO/moc_scalecommand.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/command/transfercommand.h",
+			"MU",
+			"LTLVFUOEFO/moc_transfercommand.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/drawimplementater.h",
+			"MU",
+			"NPUKSKGWT2/moc_drawimplementater.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/executor.h",
+			"MU",
+			"NPUKSKGWT2/moc_executor.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/groupimplementater.h",
+			"MU",
+			"NPUKSKGWT2/moc_groupimplementater.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/icommandexecute.h",
+			"MU",
+			"NPUKSKGWT2/moc_icommandexecute.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/icommandexecuteimplementer.h",
+			"MU",
+			"NPUKSKGWT2/moc_icommandexecuteimplementer.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/loadimplementater.h",
+			"MU",
+			"NPUKSKGWT2/moc_loadimplementater.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/mainFacade.h",
+			"MU",
+			"NPUKSKGWT2/moc_mainFacade.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/motionimplementer.h",
+			"MU",
+			"NPUKSKGWT2/moc_motionimplementer.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/datamanager/viewerdatamanager.h",
+			"MU",
+			"ZHB475VOPY/moc_viewerdatamanager.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/exception/error.h",
+			"MU",
+			"NAM4T463HN/moc_error.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/factory/iabstractfactory.h",
+			"MU",
+			"BQJUZT52E7/moc_iabstractfactory.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/factory/model3dfactory.h",
+			"MU",
+			"BQJUZT52E7/moc_model3dfactory.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/geometry/edge.h",
+			"MU",
+			"7ZYVOEMLRG/moc_edge.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/geometry/iedge.h",
+			"MU",
+			"7ZYVOEMLRG/moc_iedge.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/geometry/ipoint.h",
+			"MU",
+			"7ZYVOEMLRG/moc_ipoint.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/geometry/model/builder/3dmodelBuilder.h",
+			"MU",
+			"QSG3KRWFNY/moc_3dmodelBuilder.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/geometry/model/builder/director.h",
+			"MU",
+			"QSG3KRWFNY/moc_director.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/geometry/model/builder/imodelbuilder.h",
+			"MU",
+			"QSG3KRWFNY/moc_imodelbuilder.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/geometry/model/imodel.h",
+			"MU",
+			"6N3PYNIYJD/moc_imodel.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/geometry/model/model3d.h",
+			"MU",
+			"6N3PYNIYJD/moc_model3d.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/geometry/point.h",
+			"MU",
+			"7ZYVOEMLRG/moc_point.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/io/ireader.h",
+			"MU",
+			"HR73DCNJIQ/moc_ireader.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/io/ireaderimplementator.h",
+			"MU",
+			"HR73DCNJIQ/moc_ireaderimplementator.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/io/reader.h",
+			"MU",
+			"HR73DCNJIQ/moc_reader.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/io/readerimplementator_stdio.h",
+			"MU",
+			"HR73DCNJIQ/moc_readerimplementator_stdio.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/patterns/observer/observer.h",
+			"MU",
+			"BUD7LST7JO/moc_observer.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/patterns/observer/subject.h",
+			"MU",
+			"BUD7LST7JO/moc_subject.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/ui/camera/camera.h",
+			"MU",
+			"GOTBWPQP5A/moc_camera.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/ui/drawer.h",
+			"MU",
+			"UYX5XTB5RZ/moc_drawer.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/ui/drawermediator.h",
+			"MU",
+			"UYX5XTB5RZ/moc_drawermediator.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/ui/imediator.h",
+			"MU",
+			"UYX5XTB5RZ/moc_imediator.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/ui/iparticipant.h",
+			"MU",
+			"UYX5XTB5RZ/moc_iparticipant.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/ui/scene/sceneobject.h",
+			"MU",
+			"ETOV3EWDJX/moc_sceneobject.cpp"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/ui/scene/sceneobjectcomposite.h",
+			"MU",
+			"ETOV3EWDJX/moc_sceneobjectcomposite.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug/lab_03_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug/lab_03_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug",
+		"/home/jasur/Downloads/test/bojenka_pomogi",
+		"/home/jasur/home/qt/5.9.9/gcc_64/include",
+		"/home/jasur/home/qt/5.9.9/gcc_64/include/QtCore",
+		"/home/jasur/home/qt/5.9.9/gcc_64/mkspecs/linux-g++",
+		"/home/jasur/home/qt/5.9.9/gcc_64/include/QtWidgets",
+		"/home/jasur/home/qt/5.9.9/gcc_64/include/QtGui",
+		"/home/jasur/home/qt/5.9.9/gcc_64/include/QtQuick",
+		"/home/jasur/home/qt/5.9.9/gcc_64/include/QtQml",
+		"/home/jasur/home/qt/5.9.9/gcc_64/include/QtNetwork",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/snap/clion/114/bin/cmake/linux/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug/lab_03_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug/CMakeFiles/lab_03_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/jasur/home/qt/5.9.9/gcc_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/home/jasur/home/qt/5.9.9/gcc_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/jasur/Downloads/test/bojenka_pomogi/cmake-build-debug/CMakeFiles/lab_03_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/command/iappcommand.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/command/rotatecommand.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/command/scalecommand.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/command/transfercommand.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/drawimplementater.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/executor.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/groupimplementater.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/loadimplementater.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/mainFacade.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/controller/motionimplementer.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/datamanager/viewerdatamanager.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/factory/model3dfactory.cpp",
+			"MU"
+		],
+		[ "/home/jasur/Downloads/test/bojenka_pomogi/geometry/edge.cpp", "MU" ],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/geometry/model/builder/3dmodelBuilder.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/geometry/model/model3d.cpp",
+			"MU"
+		],
+		[ "/home/jasur/Downloads/test/bojenka_pomogi/geometry/point.cpp", "MU" ],
+		[ "/home/jasur/Downloads/test/bojenka_pomogi/io/reader.cpp", "MU" ],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/io/readerimplementator_stdio.cpp",
+			"MU"
+		],
+		[ "/home/jasur/Downloads/test/bojenka_pomogi/main.cpp", "MU" ],
+		[ "/home/jasur/Downloads/test/bojenka_pomogi/mainwindow.cpp", "MU" ],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/patterns/observer/subject.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/ui/camera/camera.cpp",
+			"MU"
+		],
+		[ "/home/jasur/Downloads/test/bojenka_pomogi/ui/drawer.cpp", "MU" ],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/ui/drawermediator.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/ui/scene/sceneobject.cpp",
+			"MU"
+		],
+		[
+			"/home/jasur/Downloads/test/bojenka_pomogi/ui/scene/sceneobjectcomposite.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
